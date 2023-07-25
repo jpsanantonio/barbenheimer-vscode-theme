@@ -44,4 +44,4 @@ If you have any feedback or suggestions, please [open an issue](https://github.c
 
 ## License
 
-Barbenheimer is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+Barbenheimer is licensed under the MIT License. See [LICENSE](LICENSE.md) for more details.
