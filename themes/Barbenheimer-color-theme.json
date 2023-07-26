@@ -20,7 +20,7 @@
 		"input.placeholderForeground": "#E44288CC",
 		"inputOption.activeBorder": "#FFFFFFCC",
 		"quickInput.background": "#111109",
-		"inputValidation.errorBackground": "#AB0300F2",
+		"inputValidation.errorBackground": "#C1474CCC",
 		"inputValidation.errorBorder": "#EF5350CC",
 		"inputValidation.infoBackground": "#F09B3BCC",
 		"inputValidation.infoBorder": "#64B5F6",
@@ -35,7 +35,8 @@
 		"breadcrumb.foreground": "#A599E9",
 		"breadcrumb.focusForeground": "#FFFFFFCC",
 		"breadcrumb.activeSelectionForeground": "#FFFFFFCC",
-		"breadcrumbPicker.background": "#001122",
+		"breadcrumbPicker.background": "#111109",
+		"list.errorForeground": "#C1474C",
 		"list.activeSelectionBackground": "#27241A8c",
 		"list.activeSelectionForeground": "#FFFFFFCC",
 		"list.invalidItemForeground": "#975f94",
@@ -192,11 +193,11 @@
 		"welcomePage.progress.background": "#E5529244",
 		"walkthrough.stepTitle.foreground": "#F09B3BCC",
 		"walkThrough.embeddedEditorBackground": "#14140B",
-		"gitDecoration.modifiedResourceForeground": "#A2BFFCCC",
+		"gitDecoration.modifiedResourceForeground": "#FFEB95BB",
 		"gitDecoration.deletedResourceForeground": "#EF5350CC",
-		"gitDecoration.untrackedResourceForeground": "#F09B3BCC",
+		"gitDecoration.untrackedResourceForeground": "#F09B3BAA",
 		"gitDecoration.ignoredResourceForeground": "#395a75",
-		"gitDecoration.conflictingResourceForeground": "#ffeb95cc"
+		"gitDecoration.conflictingResourceForeground": "#ffeb95cc",
 	},
 	"tokenColors": [
 		{
