@@ -641,14 +641,14 @@
 			"name": "Constant Other Color",
 			"scope": "constant.other.color",
 			"settings": {
-				"foreground": "#FFEB95"
+				"foreground": "#D84674CC"
 			}
 		},
 		{
 			"name": "Keyword Other Unit",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#FFEB95"
+				"foreground": "#D84674CC"
 			}
 		},
 		{
