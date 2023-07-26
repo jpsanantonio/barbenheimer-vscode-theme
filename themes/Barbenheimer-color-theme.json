@@ -10,7 +10,7 @@
 		"errorForeground": "#EF5350CC",
 		"button.background": "#7E57C2AA",
 		"button.foreground": "#FFFFFFCC",
-		"button.hoverBackground": "#7Ef7C2",
+		"button.hoverBackground": "#7E57C2CC",
 		"dropdown.background": "#14140B",
 		"dropdown.border": "#E44288CC",
 		"dropdown.foreground": "#FFFFFFCC",
